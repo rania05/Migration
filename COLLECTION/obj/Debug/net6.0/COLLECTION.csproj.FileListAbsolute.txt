@@ -1,0 +1,15 @@
+C:\Users\Archimed\source\repos\COLLECTION\COLLECTION\bin\Debug\net6.0\COLLECTION.exe
+C:\Users\Archimed\source\repos\COLLECTION\COLLECTION\bin\Debug\net6.0\COLLECTION.deps.json
+C:\Users\Archimed\source\repos\COLLECTION\COLLECTION\bin\Debug\net6.0\COLLECTION.runtimeconfig.json
+C:\Users\Archimed\source\repos\COLLECTION\COLLECTION\bin\Debug\net6.0\COLLECTION.dll
+C:\Users\Archimed\source\repos\COLLECTION\COLLECTION\bin\Debug\net6.0\COLLECTION.pdb
+C:\Users\Archimed\source\repos\COLLECTION\COLLECTION\obj\Debug\net6.0\COLLECTION.csproj.AssemblyReference.cache
+C:\Users\Archimed\source\repos\COLLECTION\COLLECTION\obj\Debug\net6.0\COLLECTION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Archimed\source\repos\COLLECTION\COLLECTION\obj\Debug\net6.0\COLLECTION.AssemblyInfoInputs.cache
+C:\Users\Archimed\source\repos\COLLECTION\COLLECTION\obj\Debug\net6.0\COLLECTION.AssemblyInfo.cs
+C:\Users\Archimed\source\repos\COLLECTION\COLLECTION\obj\Debug\net6.0\COLLECTION.csproj.CoreCompileInputs.cache
+C:\Users\Archimed\source\repos\COLLECTION\COLLECTION\obj\Debug\net6.0\COLLECTION.dll
+C:\Users\Archimed\source\repos\COLLECTION\COLLECTION\obj\Debug\net6.0\refint\COLLECTION.dll
+C:\Users\Archimed\source\repos\COLLECTION\COLLECTION\obj\Debug\net6.0\COLLECTION.pdb
+C:\Users\Archimed\source\repos\COLLECTION\COLLECTION\obj\Debug\net6.0\COLLECTION.genruntimeconfig.cache
+C:\Users\Archimed\source\repos\COLLECTION\COLLECTION\obj\Debug\net6.0\ref\COLLECTION.dll
